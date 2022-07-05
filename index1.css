@@ -1,0 +1,33 @@
+h1 {
+    color:red;
+}
+.frist {
+    color: white;
+    background: blue;
+    width: 100px;
+    height: 70px;
+}
+p span {
+    color: red;
+}
+h2 {
+    color: white;
+    background: green;
+    width: 1900px;
+}
+.second {
+    width: 1875px;
+    height: 90px;
+    padding-top: 45px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 30px;
+}
+.thrid {
+    margin-left: 100px;
+}
+li {
+    font-size: 25px;
+    width: 1900px;
+    border: 1px solid black;
+}
